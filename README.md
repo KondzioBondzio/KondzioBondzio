@@ -136,6 +136,15 @@ Hello! I’m Konrad, a versatile software engineer with experience in Hexagonal 
           <img width="12" />
         </td>
       </tr>
+       <tr>
+              <td align="center" style="padding: 8px;"><a href="https://www.easysend.pl/" target="_blank">EasySend Website</a></td>
+              <td align="center" style="padding: 8px;">Public site for EasySend platform</td>
+              <td align="center" style="padding: 8px;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="Symfony logo" /><img width="6" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" /><img width="6" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+              </td>
+            </tr>
     </tbody>
   </table>
 </div>
