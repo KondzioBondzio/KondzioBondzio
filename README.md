@@ -67,9 +67,9 @@ Hello! I’m Konrad, a versatile software engineer with experience in Hexagonal 
     alt="Top languages" />
 </div>
 <br><br>
-<div align="center" style="margin: 16px 0;">
+<!-- <div align="center" style="margin: 16px 0;">
   <h3>Profile views:</h3> <img src="https://profile-counter.glitch.me/kondziobondzio/count.svg?"/>
-</div>
+</div> -->
 <br><br>
 <div align="center">
   <h4>Projects</h4>
